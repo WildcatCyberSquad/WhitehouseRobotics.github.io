@@ -11,10 +11,12 @@
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	filter: brightness(70%);
 }
-.navTitle {
+.navTitlePosition {
 	position: absolute;
 	top: 100px;
 	left: 30%;
+}
+.navTitle {
 	color: white;
 	font-weight: 600;
 	font-size: 50px;
