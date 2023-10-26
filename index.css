@@ -14,6 +14,7 @@
   font-size: 45px;
   font-weight: bold;
   color: rgb(29, 29, 29);
+  text-shadow: 0.5px 0.5px 4px rgb(0, 0, 0);
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -53,4 +54,8 @@ body {
 }
 .endpage {
   margin-bottom: 40px;
+}
+.buildingProcess {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
 }

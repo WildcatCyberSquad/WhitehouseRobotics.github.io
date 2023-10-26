@@ -20,6 +20,7 @@
   color: white;
   font-weight: 600;
   font-size: 50px;
+  text-shadow: 1px 1px 4px rgb(0, 0, 0);
 }
 .title {
   font-size: 30px;
@@ -54,6 +55,7 @@ body {
 }
 .shade {
   background-color: rgb(100, 98, 98);
+  text-shadow: 1px 1px 4px rgb(0, 0, 0);
 }
 .endpage {
   margin-bottom: 40px;
